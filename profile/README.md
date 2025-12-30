@@ -13,4 +13,4 @@ AXMQ (ApexMQTT) 是一款面向百万级设备接入、千万级消息分发而�
 - **鼎极性能:** 它是单机连接的物理极境。
 
 ---
-[官方网站: axmq.net](http://axmq.net) | [Email: 229292620@qq.com]
+官方网站: [axmq.net](http://axmq.net) | Email: 229292620@qq.com
